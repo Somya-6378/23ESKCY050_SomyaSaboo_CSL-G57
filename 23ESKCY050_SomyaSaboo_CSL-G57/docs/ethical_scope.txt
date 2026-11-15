@@ -1,0 +1,1 @@
+All tests use local execution and fabricated URL strings only. The application does not visit submitted destinations. No unauthorised system, network, account or person is targeted.
